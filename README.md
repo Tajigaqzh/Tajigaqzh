@@ -33,12 +33,12 @@
 
 <div style='display:flex'>
     <img width='130' height='50' title='spring' style='margin-left:15px;' src='skill/spring.png' />
-    <img width='130' height='50' title='mybatis' style='margin-left:15px;' src='skill/mybatis.png' />
+    <img width='100' height='50' title='mybatis' style='margin-left:15px;' src='skill/mybatis.png' />
     <img width='110' height='50' title='springboot' style='margin-left:15px;' src='skill/springboot.png' />
     <img width='110' height='50' title='springcloud' style='margin-left:15px;' src='skill/springcloud.png' />
     <img width='110' height='50' title='dubbo' style='margin-left:15px;' src='skill/dubbo.png' />
     <img width='110' height='50' title='zookeeper' style='margin-left:15px;' src='skill/zookeeper.png' />
-    <img width='110' height='50' title='rabbitmq' style='margin-left:15px;' src='skill/rabbitmq.png' />
+    <img width='100' height='50' title='rabbitmq' style='margin-left:15px;' src='skill/rabbitmq.png' />
     <img width='110' height='50' title='rocketmq' style='margin-left:15px;' src='skill/rocketmq.png' />
     <img width='110' height='50' title='elasticsearch' style='margin-left:15px;' src='skill/elaticsearch.png' />
 </div>
@@ -56,7 +56,7 @@
 ### 运维
 
 <div style='display:flex'>
-    <img width='50' height='50' title='nginx' style='margin-left:30px;' src='skill/nginx.png' />
+    <img width='70' height='50' title='nginx' style='margin-left:30px;' src='skill/nginx.png' />
     <img width='90' height='40' title='linux' style='margin-left:30px;' src='skill/linux.png' />
     <img width='70' height='50' title='docker' style='margin-left:30px;' src='skill/docker.png' />
     <img width='70' height='50' title='k8s'style='margin-left:30px;' src='skill/k8s.png' />
