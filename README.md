@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tajigaqzh. I’m interested in Java, javascript, Python. I’m currently learning react.
+- 👋 Hi, I’m @Tajigaqzh. I’m interested in Java, javascript, typescript, Python. I’m currently learning react.
 
 # 💡skills
 
