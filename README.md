@@ -40,7 +40,7 @@
     <img width='110' height='50' title='zookeeper' style='margin-left:15px;' src='skill/zookeeper.png' />
     <img width='110' height='50' title='rabbitmq' style='margin-left:15px;' src='skill/rabbitmq.png' />
     <img width='110' height='50' title='rocketmq' style='margin-left:15px;' src='skill/rocketmq.png' />
-    <img width='110' height='50' title='seaticsearch' style='margin-left:15px;' src='skill/elaticsearch.png' />
+    <img width='110' height='50' title='elaticsearch' style='margin-left:15px;' src='skill/elaticsearch.png' />
 </div>
 
 ### 数据库
