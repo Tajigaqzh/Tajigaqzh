@@ -41,6 +41,7 @@
     <img width='100' height='50' title='rabbitmq' style='margin-left:15px;' src='skill/rabbitmq.png' />
     <img width='110' height='50' title='rocketmq' style='margin-left:15px;' src='skill/rocketmq.png' />
     <img width='110' height='50' title='elasticsearch' style='margin-left:15px;' src='skill/elaticsearch.png' />
+    <img width='110' height='50' title='elasticsearch' style='margin-left:15px;' src='skill/solr.png' />
 </div>
 
 ### 数据库
