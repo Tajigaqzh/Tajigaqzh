@@ -15,7 +15,7 @@
     <img width='50' height='50' title='vite' style='margin-left:30px;' src='skill/vite.png' />
     <img width='50' height='50' title='vue' style='margin-left:30px;' src='skill/vue.png' />
     <img width='40' height='50' title='pinia' style='margin-left:30px;' src='skill/pinia.png' />
-    <img width='40' height='50' title='react' style='margin-left:30px;' src='skill/react.png'/>
+    <img width='55' height='50' title='react' style='margin-left:30px;' src='skill/react.png'/>
     <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/git.png' />
 </div>
 
@@ -24,7 +24,7 @@
 <div style='display:flex'>
     <img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
     <img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
-    <img width='80' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
+    <img width='90' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
     <img width='80' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
     <img width='80' height='50' title='lua' style='margin-left:15px;' src='skill/lua.png' />
 </div>
