@@ -15,6 +15,7 @@
     <img width='50' height='50' title='vite' style='margin-left:30px;' src='skill/vite.png' />
     <img width='50' height='50' title='vue' style='margin-left:30px;' src='skill/vue.png' />
     <img width='40' height='50' title='pinia' style='margin-left:30px;' src='skill/pinia.png' />
+    <img width='40' height='50' title='react' style='margin-left:30px;' src='skill/react.png'/>
     <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/git.png' />
 </div>
 
