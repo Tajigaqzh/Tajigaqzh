@@ -11,6 +11,7 @@
     <img width='50' height='50' title='css3' style='margin-left:30px;' src='skill/css3.png' />
     <img width='70' height='50' title='less' style='margin-left:30px;' src='skill/less.png' />
     <img width='50' height='50' title='sass' style='margin-left:30px;' src='skill/sass.png' />
+    <img width='50' height='50' title='tailwindcss' style='margin-left:30px;' src='skill/tailwindcss.png' />
     <img width='50' height='50' title='webpack' style='margin-left:30px;' src='skill/webpack.png' />
     <img width='50' height='50' title='vite' style='margin-left:30px;' src='skill/vite.png' />
     <img width='50' height='50' title='vue' style='margin-left:30px;' src='skill/vue.png' />
