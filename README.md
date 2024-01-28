@@ -16,10 +16,11 @@
     <img width='50' height='50' title='vue' style='margin-left:30px;' src='skill/vue.png' />
     <img width='40' height='50' title='pinia' style='margin-left:30px;' src='skill/pinia.png' />
     <img width='55' height='50' title='react' style='margin-left:30px;' src='skill/react.png'/>
+    <img width='50' height='50' title='redux' style='margin-left:30px;' src='skill/redux.png'/>
     <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/git.png' />
-    <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/umi.png'/>
-    <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/dva.png' />
-    <img width='50' height='50' title='git' style='margin-left:30px;' src='skill/nuxt.png'/>
+    <img width='50' height='50' title='umi' style='margin-left:30px;' src='skill/umi.png'/>
+    <img width='50' height='50' title='dva' style='margin-left:30px;' src='skill/dva.png' />
+    <img width='50' height='50' title='nuxt' style='margin-left:30px;' src='skill/nuxt.png'/>
 </div>
 
 ### 后端
